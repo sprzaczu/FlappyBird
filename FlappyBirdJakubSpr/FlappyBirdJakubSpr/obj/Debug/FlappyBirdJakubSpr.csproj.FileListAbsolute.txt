@@ -1,0 +1,10 @@
+F:\Biblioteczka\Dokumenty\studia\FlappyBird\FlappyBirdJakubSpr\FlappyBirdJakubSpr\bin\Debug\FlappyBirdJakubSpr.exe.config
+F:\Biblioteczka\Dokumenty\studia\FlappyBird\FlappyBirdJakubSpr\FlappyBirdJakubSpr\bin\Debug\FlappyBirdJakubSpr.exe
+F:\Biblioteczka\Dokumenty\studia\FlappyBird\FlappyBirdJakubSpr\FlappyBirdJakubSpr\bin\Debug\FlappyBirdJakubSpr.pdb
+F:\Biblioteczka\Dokumenty\studia\FlappyBird\FlappyBirdJakubSpr\FlappyBirdJakubSpr\obj\Debug\FlappyBirdJakubSpr.csprojAssemblyReference.cache
+F:\Biblioteczka\Dokumenty\studia\FlappyBird\FlappyBirdJakubSpr\FlappyBirdJakubSpr\obj\Debug\FlappyBirdJakubSpr.Form1.resources
+F:\Biblioteczka\Dokumenty\studia\FlappyBird\FlappyBirdJakubSpr\FlappyBirdJakubSpr\obj\Debug\FlappyBirdJakubSpr.Properties.Resources.resources
+F:\Biblioteczka\Dokumenty\studia\FlappyBird\FlappyBirdJakubSpr\FlappyBirdJakubSpr\obj\Debug\FlappyBirdJakubSpr.csproj.GenerateResource.cache
+F:\Biblioteczka\Dokumenty\studia\FlappyBird\FlappyBirdJakubSpr\FlappyBirdJakubSpr\obj\Debug\FlappyBirdJakubSpr.csproj.CoreCompileInputs.cache
+F:\Biblioteczka\Dokumenty\studia\FlappyBird\FlappyBirdJakubSpr\FlappyBirdJakubSpr\obj\Debug\FlappyBirdJakubSpr.exe
+F:\Biblioteczka\Dokumenty\studia\FlappyBird\FlappyBirdJakubSpr\FlappyBirdJakubSpr\obj\Debug\FlappyBirdJakubSpr.pdb
